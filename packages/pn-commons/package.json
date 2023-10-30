@@ -4,6 +4,7 @@
   "private": true,
   "main": "./src/index.ts",
   "dependencies": {
+    "@babel/traverse": "^7.23.2",
     "@date-io/date-fns": "^2.15.0",
     "@mui/icons-material": "5.11.11",
     "@mui/lab": "5.0.0-alpha.100",

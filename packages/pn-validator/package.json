@@ -4,6 +4,7 @@
   "private": true,
   "main": "./src/index.ts",
   "dependencies": {
+    "@babel/traverse": "^7.23.2",
     "@typescript-eslint/eslint-plugin": "^6.7.3",
     "@typescript-eslint/parser": "^6.7.3",
     "typescript": "^5.2.2"

@@ -4,7 +4,6 @@
   "version": "2.2.0-RC.1",
   "private": true,
   "dependencies": {
-    "@babel/traverse": "^7.23.2",
     "@emotion/react": "^11.10.4",
     "@emotion/styled": "^11.10.4",
     "@mui/icons-material": "^5.11.16",
